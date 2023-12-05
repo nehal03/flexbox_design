@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color : white;
+}
+.navbar ul{
+   padding-left: 0px; 
+}
+.navbar li{
+    display: inline;
+     margin-right: 50px;
+    list-style-type: none;
+}
+
+
+.image{
+    background-color: green;
+    height: 150px;
+}
+
+
+.container-2{
+    width : 500px;
+}
+
+.container-1{
+    width : 1000px;
+    margin-right: 30px;
+}
+.outer-container{
+    display: flex;
+    
+}
